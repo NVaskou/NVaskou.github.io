@@ -4,7 +4,7 @@ title: Nicolas
 header:
   pages:
     - name: Home
-      slug: /     # <-- index.md
+      slug: /     # <-- home.md
     - name: Teaching  # <-- blog.md
     - name: Research  # <-- whatever.md
     
