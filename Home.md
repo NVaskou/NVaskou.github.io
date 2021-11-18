@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
-Hello! 
+Hello! This is my home page
 
 [This is a link](google.co.uk)
 
